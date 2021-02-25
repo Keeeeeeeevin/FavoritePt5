@@ -1,0 +1,15 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
